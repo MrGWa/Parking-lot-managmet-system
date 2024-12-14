@@ -1,0 +1,16 @@
+Total Spots : 10
+Occupied Spots : 3
+Occupied Spot details:
+--------------------------------
+Spot Number: 1
+ License Plate: ABC123
+ Entry Time: 10:00
+--------------------------------
+Spot Number: 2
+ License Plate: ZXC456
+ Entry Time: 14:00
+--------------------------------
+Spot Number: 3
+ License Plate: UGO489
+ Entry Time: 18:48
+--------------------------------
